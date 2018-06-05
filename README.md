@@ -8,3 +8,5 @@ Technologies I used:
 - JavaScript
 - HTML
 - CSS
+
+![emissions-d3_screenshot](https://user-images.githubusercontent.com/34710484/40964540-d5d41182-68c4-11e8-9670-e6828e54d072.png)
